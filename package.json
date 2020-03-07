@@ -1,0 +1,16 @@
+{
+  "name": "crypto-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mobius Soft Ltd.",
+  "license": "MIT",
+  "dependencies": {
+    "bitcore-lib-cash": "^8.16.0",
+    "bs58": "^4.0.1",
+    "dashcore-lib": "^8.2.3",
+    "litecore-lib": "^0.13.22",
+    "wif": "^2.0.6"
+  }
+}
