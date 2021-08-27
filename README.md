@@ -25,3 +25,4 @@ node ./index.js bitcoin 10
 * bitcoin-cash
 * dash
 * litecoin
+* segwit
